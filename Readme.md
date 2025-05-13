@@ -1,20 +1,21 @@
 
-````markdown
 # Aztec Network Sequencer Node
 
 A step-by-step guide to run a **Sequencer Node** on the Aztec Network testnet and earn the `Apprentice` role.
 
 ---
 
-## 🧠 Node Types
-| Node Type | Description |
-|-----------|-------------|
-| `Sequencer` | Proposes and validates blocks, votes on upgrades. |
-| `Prover` | Generates ZK proofs that attest to roll-up integrity. *(Prover nodes are for large infra setups, not home use.)* |
+## 🌐 Node Types
+
+| Node Type   | Description                                                                                   |
+|-------------|-----------------------------------------------------------------------------------------------|
+| `Sequencer` | Proposes and validates blocks, votes on upgrades.                                             |
+| `Prover`    | Generates ZK proofs that attest to roll-up integrity. *(Prover nodes are for large infra setups, not home use.)* |
 
 ---
 
-## 🏅 Discord Role
+## 🛡️ Discord Role
+
 Running a **Sequencer node** and syncing it gives you the **Apprentice role** in Discord.
 
 👉 [Get Role Instructions](https://github.com/0xmoei/aztec-network/blob/main/README.md#get-apprentice-discord-role)
@@ -23,20 +24,23 @@ Running a **Sequencer node** and syncing it gives you the **Apprentice role** in
 
 ## 📦 Hardware Requirements
 
-| RAM         | CPU Cores | SSD        |
-|--------------|------------|-------------|
-| 8–16 GB     | 4–9 Cores | 100+ GB SSD |
+| RAM       | CPU Cores | SSD        |
+|-----------|-----------|------------|
+| 8–16 GB   | 4–9 Cores | 100+ GB SSD |
 
-> *Prover Nodes*: Need ~40x machines with 16 cores and 128GB RAM. Skip if you're not running data center infrastructure.
+> **Prover Nodes**: Need ~40x machines with 16 cores and 128 GB RAM. Skip if you're not running data center infrastructure.
 
 ---
 
-## 🪟 For Windows Users
+## 🧰 For Windows Users
+
 Install Ubuntu using this [guide](https://github.com/0xmoei/Install-Linux-on-Windows).
 
 ## 🌐 For VPS Users
-Get started on a VPS with **4 vCores + 8GB RAM**  
-👉 [Purchase VPS](https://my.hostbrr.com/order/forms/a/NTMxNw==)
+
+Get started on a VPS with **4 vCores + 8 GB RAM**  
+👉 [Purchase VPS](https://my.hostbrr.com/order/forms/a/NTMxNW==)
+
 
 ---
 
